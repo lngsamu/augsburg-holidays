@@ -1,4 +1,4 @@
-# 📅 Kalender – Feiertage & Termine (iCal .ics)
+# 📅 Kalender – Feiertage für Augsburg / Bayern (iCal .ics)
 
 Dieses Repository enthält eine oder mehrere **iCalendar (.ics)** Dateien zur Nutzung in Kalenderanwendungen wie Apple Kalender, Google Kalender oder Outlook.
 
@@ -49,7 +49,8 @@ Der Kalender aktualisiert sich automatisch, sobald:
 
 - Dies ist ein **öffentliches Kalender-Abo**
 - Änderungen werden automatisch übernommen
-- Bei Problemen mit Duplikaten bitte den Kalender einmal entfernen und neu abonnieren
+- Kein Anspruch auf Vollständigkeit oder Korrektheit der enthaltenen Daten.
+- Dieser Kalender ist unabhängig und wird nicht offiziell von Apple, Google oder anderen Anbietern bereitgestellt.
 
 ---
 
@@ -65,9 +66,3 @@ Der Kalender aktualisiert sich automatisch, sobald:
 
 Dieses Projekt steht unter der MIT-Lizenz.  
 Siehe `LICENSE` Datei für Details.
-
----
-
-## 📍 Hinweis
-
-Dieser Kalender ist unabhängig und wird nicht offiziell von Apple, Google oder anderen Anbietern bereitgestellt.
